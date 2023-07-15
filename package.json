@@ -1,0 +1,24 @@
+{
+  "name": "ep1-2",
+  "version": "1.0.0",
+  "description": "practice of episode 1 and 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkokane264/Namaste-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalkokane264/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/vishalkokane264/Namaste-React#readme",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react":"^18.0.2",
+    "react-dom":"^18.0.2"
+  }
+}
